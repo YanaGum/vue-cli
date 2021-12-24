@@ -12,7 +12,7 @@
       <nb-right>
       </nb-right>
     </nb-header>
-    <slot />
+    <slot/>
   </nb-container>
 </template>
 
